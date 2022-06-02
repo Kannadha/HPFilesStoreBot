@@ -23,8 +23,8 @@ This is Telegram Parmanent Files Store Bot by [@harshil8981](https://github.com/
 	- Make a Channel for Storing Files. We will use that as Database. Channel must be Private! Else you will be Copyright by [Telegram HPGroup](https://t.me/Hpbot_update)!
 - `BOT_OWNER` - Bot Owner UserID
 	- Put your Telegram UserID for doing Broadcast.
-- `DATABASE_URL` - MongoDB Database URI
-	- This for Saving UserIDs. When you will Broadcast, bot will forward the Broadcast to DB Users.
+
+
 - `UPDATES_CHANNEL` - Force Sub Channel ID *(Optional)*
 	- ID of a Channel which you want to do Force Sub to use the bot. 
 - `LOG_CHANNEL` - Logs Channel ID
